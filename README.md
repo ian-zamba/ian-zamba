@@ -2,8 +2,8 @@
   <h1 align="center">Olá Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/ian-zamba/"><i>Ian Zambanini</i></a> 😃️</h1>
   <p align="center">Estudo Sistemas de informação na  <a href="https://www.ufs.br"><i>UFS</i></a> 
   
-- 🔭 Procuro trabalho ou estágio como dev
-- 🌱 Estudando: .NET, c++
+- 🔭 Procuro trabalho ou estágio como dev.
+- 🌱 Estudando: .NET, c++.
 
 
 <div  align="center">
