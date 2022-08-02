@@ -9,7 +9,7 @@
 <div  align="center">
   <a href="https://github.com/ian-zamba">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ian-zamba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-zamba&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div>
 
 <div align="center" valign="top"><br>
