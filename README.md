@@ -3,7 +3,6 @@
   <p align="center">Estudo Sistemas de informação na  <a href="https://www.ufs.br"><i>UFS</i></a> 
   
 - 🔭 Procuro trabalho ou estágio como dev.
-- 🌱 Estudando: .NET, c++.
 
 
 <div  align="center">
